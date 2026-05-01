@@ -1,0 +1,5 @@
+{
+  "version": "1.0.02",
+  "download_url": "https://github.com/gabrielabiah/lite-presenter-releases/releases/download/v1.0.02/LitePresenter-Setup-1.0.02.exe",
+  "notes": "Replace YOUR_ORG and paths. Host this file at a stable HTTPS URL (e.g. raw GitHub or GitHub Pages) and pass it to the app build as UPDATE_FEED_URL."
+}
